@@ -1,0 +1,5 @@
+barplots/
+learning_curves/
+# exceptions
+!histories/.gitkeep
+!predictions/.gitkeep

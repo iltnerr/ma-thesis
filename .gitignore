@@ -1,0 +1,18 @@
+# Pycharm Project
+.idea/
+
+*/__pycache__/
+
+# Temp Files
+*.log
+logs/*.log
+
+# Pickle Files
+*.pkl
+
+# HP_Opt
+opt/
+
+doc/*
+data/*
+

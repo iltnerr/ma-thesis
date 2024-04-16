@@ -1,0 +1,11 @@
+# Pycharm cache
+__pycache__/
+
+checkpoints/*
+histories/*
+weights/*
+
+# exception
+!checkpoints/.gitkeep
+!histories/.gitkeep
+!weights/.gitkeep
